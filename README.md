@@ -8,10 +8,15 @@ Currently figuring out how to build cool things that actually work.
 → Working on projects around: energy tech ⚡, smart platforms 🧠, and making data useful 📊
 
 Tech I’m playing with:
-Python | Java | JavaScript | R
+
+Python | Java | JavaScript | R 
+
 Node.js | Express | Firebase | Next.js | React
+
 SQL | NoSQL | Firestore
+
 Data Analytics | ML (sometimes)
+
 “Shipping beats perfection.”
 Let’s build something that people actually want to use.
 <!---
